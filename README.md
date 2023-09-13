@@ -16,7 +16,7 @@ flex capital.l
 ```bash
 gcc lex.yy.c
 ```
-- Finally run this command to run the program
+- Finally, run this command to run the program
 ```bash
 ./a.out
 ```
@@ -26,3 +26,4 @@ gcc lex.yy.c
  - 132686 Royne Thuo
  - 136790 Masaki Angela
  - 136245 Kariuki Edwin
+ - 130905 Muchira Munene
